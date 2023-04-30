@@ -1,4 +1,4 @@
-### Hola tecnonautas! 👋
+### Bienvenidos tecnonautas! 👋
 
 :raising_hand_man:Soy Leandro, un tester de software apasionado por la tecnología y la innovación. Me encanta aprender y mejorar mis habilidades constantemente, por lo que siempre estoy en busca de nuevos desafíos y proyectos emocionantes.
 
@@ -10,7 +10,7 @@
 
 ---
 
-### Hello technonauts! 👋
+### Welcome technonauts! 👋
 
 :raising_hand_man:I'm Leandro, a software tester passionate about technology and innovation. I love learning and constantly improving my skills, so I am always looking for new challenges and exciting projects.
 
